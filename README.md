@@ -1,4 +1,4 @@
-# Potato Disease Prediction App
+# IMDB review sentiment classifier App
 
 This is IMDB movies review sentiment classifier End to End Deep Learning project Developed with Tensorflow and RNN
 
